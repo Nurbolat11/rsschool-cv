@@ -23,7 +23,9 @@ I'm working as an electrical engineer in oil transportation company. After gradu
 * Git/GitHub
 * Figma
 
+
 ## Code Examples
+
 
 ```
 function capitalizeWord(word) {
@@ -33,7 +35,9 @@ function capitalizeWord(word) {
   return c;
 }
 ```
+
 ## Education
+
 
 * Pavlodar State University
     * automatic control of electric power systems
