@@ -1,1 +1,1 @@
-https://Nurbolat11.github.io/rsschool-cv/cv
+https://Nurbolat11.github.io/rsschool-cv/
